@@ -101,3 +101,7 @@ input, textarea {
 .footer-list li {
   padding-bottom: 20px;
 }
+
+.fa {
+  margin-right: 5px;
+}

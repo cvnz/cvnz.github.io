@@ -52,6 +52,11 @@ li {
   margin-bottom: 10px;
 }
 
+.content {
+  float: left;
+  width: 50%;
+}
+
 .contents-item {
   margin-right: 500px;
   margin-bottom: 10px;
@@ -64,12 +69,11 @@ li {
 
 .txt-contents {
   width: 50%;
-  font-size: 20px;
-  margin-bottom: 10px;
+  font-size: 15px;
 }
 
 .contact-form {
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 /* Tambahkan CSS untuk tags <input> dan <textarea> */

@@ -52,24 +52,19 @@ li {
   margin-bottom: 10px;
 }
 
-.content {
-  float: left;
-  width: 50%;
-}
-
 .contents-item {
   margin-right: 500px;
   margin-bottom: 10px;
 }
 
 .contents-item p {
-  font-size: 20px;
+  font-size: 25px;
   margin-top: 10px;
 }
 
 .txt-contents {
   width: 50%;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .contact-form {

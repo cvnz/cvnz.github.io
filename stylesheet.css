@@ -7,9 +7,13 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
-  color: #fff;
   height: 90px;
+  width: 100%;
+  background-color: rgba(98, 2, 50, 1);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  color: #fff;
 }
 
 .header-logo {

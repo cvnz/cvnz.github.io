@@ -9,14 +9,14 @@ li {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgba(98, 2, 50, 0.5);
   position: fixed;
   top: 0;
   z-index: 10;
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: rgba(98, 2, 50, 1);
   color: #fff;
   height: 90px;
 }

@@ -7,9 +7,9 @@ li {
 }
 
 .header {
-  height: 90px;
+  height: 85px;
   width: 100%;
-  background-color: rgba(98, 2, 50, 1);
+  background-color: #DB7093;
   position: fixed;
   top: 0;
   z-index: 10;
@@ -20,11 +20,15 @@ li {
   float: left;
   font-size: 36px;
   padding: 20px 40px;
+  font-weight: bold;
 }
 
-.header-list li {
+.header-list a {
   float: left;
-  padding: 20px 40px;
+  font-size: 20px;
+  padding: 30px 30px;
+  color: white;
+  display: block;
 }
 
 .main {
@@ -32,7 +36,7 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 60px;
+  font-size: 80px;
 }
 
 .copy-container h2 {
@@ -40,13 +44,14 @@ li {
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: white;
 }
 
 .contents {
   height: 4000px;
   margin-top: 20px;
-  margin-bottom: 100px
+  margin-bottom: 100px;
+  
 }
 
 .section-title {
@@ -64,6 +69,7 @@ li {
 .contents-item p {
   font-size: 25px;
   margin-top: 10px;
+  font-weight: bold;
 }
 
 .txt-contents {
@@ -92,7 +98,7 @@ input, textarea {
 }
 
 .footer {
-  background-color: rgba(98, 2, 50, 1);
+  background-color: #DB7093;
   color: #fff;
   height: 120px;
   padding: 40px;
@@ -101,6 +107,7 @@ input, textarea {
 .footer-logo {
   float: left;
   font-size: 32px;
+  font-weight: bold;
 }
 
 .footer-list {
@@ -108,18 +115,22 @@ input, textarea {
 }
 
 .footer-list li {
-  padding-bottom: 20px;
+  padding: 10px 10px;
+  color: white;
 }
 
 .btn {
-  opacity: 0.8;
 }
 
 .btn:hover {
-  opacity: 0.5;
-  background-color: black;
+  opacity: 1;
+  background-color: pink;
 }
 
 .fa {
   margin-right: 5px;
+}
+
+body {
+  background-color: #FFB6C1;
 }

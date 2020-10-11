@@ -48,7 +48,7 @@ li {
 }
 
 .contents {
-  height: 4500px;
+  height: 3500px;
   margin-top: 20px;
   margin-bottom: 100px;
   
@@ -78,7 +78,7 @@ li {
 }
 
 .contact-form {
-  padding-top: 20px;
+  padding-top: 300px;
 }
 
 /* Tambahkan CSS untuk tags <input> dan <textarea> */

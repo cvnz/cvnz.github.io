@@ -32,7 +32,7 @@ li {
 }
 
 .main {
-  padding: 100px 80px;
+  padding: 100px 50px;
 }
 
 .copy-container h1 {
@@ -131,4 +131,5 @@ input, textarea {
 
 body {
   background-color: #FFB6C1;
+  width: 1100px;
 }

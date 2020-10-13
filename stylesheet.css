@@ -58,7 +58,7 @@ li {
   border-bottom: 2px solid #dee7ec;
   font-size: 20px;
   padding-bottom: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .contents-item {
@@ -75,13 +75,13 @@ li {
 .txt-contents {
   width: 50%;
   font-size: 20px;
+  margin-bottom: 40px;
 }
 
 .contact-form {
   padding-top: 300px;
 }
 
-/* Tambahkan CSS untuk tags <input> dan <textarea> */
 input, textarea {
   width: 400px;
   margin-top: 10px;
@@ -91,7 +91,6 @@ input, textarea {
   border: 1px solid #dee7ec;
 }
 
-/* Tambahkan CSS untuk contact-submit */
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;

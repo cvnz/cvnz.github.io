@@ -93,6 +93,7 @@ input, textarea {
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
+  cursor: pointer;
 }
 
 .footer {
@@ -110,6 +111,7 @@ input, textarea {
 
 .footer-list {
   float: right;
+  cursor: pointer;
 }
 
 .footer-list li {
